@@ -15,6 +15,7 @@
 #### ● Trabajo en actualizar todas las interfaces para ti, se paciente. Gracias.
 #### ● se trata de ingeniería social recuerda esto no me hago responsable del mal uso.
 #### ● Actualmente este repositorio  solo funciona en linux y distribusiones, termux no.
+#### ● se actualizo una nueva implementacion de ubicacion mas precisa, las cual vas a encontrar en el archivo log.html
 
        
        requisitos ->  curl, php, ssh, python2 y wget
