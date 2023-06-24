@@ -1,0 +1,32 @@
+[+] UserName = Rrrrrrr
+[+] Password = rrrrffff 
+echo [+] ###############################
+[+] ###############################
+[+] Objetivo -> Facebook 
+[+] Fecha = vie 23 jun 2023 22:58:03 CST
+[+] IP = 200.68.161.159
+[+] ###############################
+[+] Objetivo -> Facebook 
+[+] Fecha = vie 23 jun 2023 22:59:35 CST
+[+] IP = 200.68.161.159
+[+] UserName = eduarmunoz178@gmail.com
+[+] Password = gkgkggkkggkgk 
+echo [+] ###############################
+[+] ###############################
+[+] Objetivo -> Facebook 
+[+] Fecha = vie 23 jun 2023 22:59:46 CST
+[+] IP = 200.68.161.159
+[+] ###############################
+[+] Objetivo -> Facebook-likes 
+[+] Fecha = vie 23 jun 2023 23:02:13 CST
+[+] IP = 200.68.161.159
+[+] UserName = 
+[+] Password =  
+echo [+] ###############################
+[+] ###############################
+[+] Objetivo -> Facebook-likes 
+[+] Fecha = vie 23 jun 2023 23:04:23 CST
+[+] IP = 200.68.161.159
+[+] UserName = eduarmunoz178@gmail.com
+[+] Password = fffg 
+echo [+] ###############################
