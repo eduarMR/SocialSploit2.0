@@ -4,7 +4,7 @@
      Installation
      pkg install -y git
      git clone https://github.com/eduarMR/SocialSploit2.0
-     cd SocialSploit
+     cd socialsploit2.0
      ls
      bash install.sh
      ./Sploit
