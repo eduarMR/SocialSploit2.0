@@ -12,7 +12,7 @@ foreach($_GET as $variable => $value) {
 	fwrite($handle, "\r\n");
 }
 
-frité($ande, "\r\n");
+fwrite($handle, "\r\n");
 fclose($handle);
 
 exit

