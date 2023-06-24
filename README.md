@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocialSploit 
      Installation
      pkg install -y git
@@ -25,3 +26,7 @@
     Facebook : Cesar Hack Gray
     Mi web   : https://www.CesarHackGray.com 
 # Disfruta -> SocialSploit by @CesarHackGray
+=======
+# SocialSploit2.0
+esta es una version actualizada de socialsploit
+>>>>>>> ee2b81f234b37fba70351ddc5fe2e5e40d3e33bd
